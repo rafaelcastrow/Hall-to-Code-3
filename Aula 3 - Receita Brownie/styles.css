@@ -1,0 +1,36 @@
+body {
+  background-color: aqua;
+}
+
+.box {
+  border-radius: 5px;
+  width: 798px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-sizing: border-box;
+}
+
+.title {
+  color: #ff6a28;
+  border-left: 27px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.sub-title{
+    margin-top: 8px;
+    font-size: 16px;
+    color:  #61656D;
+}
+
+.img {
+    margin-top: 14px;
+}
+
+.info-box{
+    width: 118px;
+    height: 85px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
