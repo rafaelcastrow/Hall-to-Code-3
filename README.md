@@ -1,7 +1,10 @@
 # Hall-to-Code-3
-
+<p align="center">
 <img src="https://i.imgur.com/Qo8d177.jpeg" alt="Logo-Hall-To-Code" width=300>
+ <br><br>
 Aulas e desafios realizadas seguindo o curso Hall To Code
+</p>
+
 
 ## Aulas
 - [Aula 1](https://github.com/rafaelcastrow/Hall-to-Code-3/tree/main/Aula%201%20-%20Introdu%C3%A7ao%20HTML)
